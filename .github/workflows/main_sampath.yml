@@ -61,4 +61,4 @@ jobs:
           app-name: 'sampath'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_65E24E783098478DA939ACDB0021B90E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_38B746129EC947F5AFB859F21CE1B935 }}
